@@ -1,0 +1,7 @@
+data/mysql/db/
+data/
+__pycache__/
+*.pyc
+*.pyo
+*.db
+.env
